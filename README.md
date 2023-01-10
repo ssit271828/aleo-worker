@@ -5,9 +5,9 @@ Our linux version of aleo worker has high performance with GPU, which can start 
 
 | GPU | Result |
 | :---: | :---: |
-| 3090 | 3650 c/s + |
-| 3080 | 3050 c/s + |
-| 2080Ti | 2350 c/s + |
+| 3090 | 4000 c/s + |
+| 3080 | 3500 c/s + |
+| 2080Ti | 2550 c/s + |
 
 ### How to run?
 ```
