@@ -1,13 +1,15 @@
 # aleo-worker
 Our linux version of aleo worker has high performance with GPU, which can start proving easily and seamlessly with user's Aleo wallet address.
+Also works on rigs (cheap CPU with multiple GPU devices).
 
 🏅  Performance:
 
 | GPU | Result |
 | :---: | :---: |
+| 4090 | 9000 c/s + |
 | 3090 | 4000 c/s + |
 | 3080 | 3500 c/s + |
-| 2080Ti | 2550 c/s + |
+| 2080Ti | 2600 c/s + |
 
 ### How to run?
 ```
